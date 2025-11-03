@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TSP_AntColony")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fbf11d37f145a3bf2939dc758a18cedfb918e8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TSP_AntColony")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TSP_AntColony")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

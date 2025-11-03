@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\TSP_AntColony\\TSP_AntColony.csproj": {}
+    "C:\\Users\\MAYA\\Desktop\\AntColonyTSP\\TSP_AntColony.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\TSP_AntColony\\TSP_AntColony.csproj": {
+    "C:\\Users\\MAYA\\Desktop\\AntColonyTSP\\TSP_AntColony.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\TSP_AntColony\\TSP_AntColony.csproj",
+        "projectUniqueName": "C:\\Users\\MAYA\\Desktop\\AntColonyTSP\\TSP_AntColony.csproj",
         "projectName": "TSP_AntColony",
-        "projectPath": "C:\\Users\\admin\\Desktop\\TSP_AntColony\\TSP_AntColony.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\TSP_AntColony\\obj\\",
+        "projectPath": "C:\\Users\\MAYA\\Desktop\\AntColonyTSP\\TSP_AntColony.csproj",
+        "packagesPath": "C:\\Users\\MAYA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAYA\\Desktop\\AntColonyTSP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MAYA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"
