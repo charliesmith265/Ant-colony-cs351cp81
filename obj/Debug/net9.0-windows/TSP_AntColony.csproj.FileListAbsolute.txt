@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\TSP_AntColony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\TSP_AntColony.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\TSP_AntColony.AssemblyInfo.cs
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\TSP_AntColony.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TSP_AntColony\bin\Debug\net9.0-windows\TSP_AntColony.exe
+C:\Users\admin\Desktop\TSP_AntColony\bin\Debug\net9.0-windows\TSP_AntColony.deps.json
+C:\Users\admin\Desktop\TSP_AntColony\bin\Debug\net9.0-windows\TSP_AntColony.runtimeconfig.json
+C:\Users\admin\Desktop\TSP_AntColony\bin\Debug\net9.0-windows\TSP_AntColony.dll
+C:\Users\admin\Desktop\TSP_AntColony\bin\Debug\net9.0-windows\TSP_AntColony.pdb
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\TSP_AntColony.dll
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\refint\TSP_AntColony.dll
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\TSP_AntColony.pdb
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\TSP_AntColony.genruntimeconfig.cache
+C:\Users\admin\Desktop\TSP_AntColony\obj\Debug\net9.0-windows\ref\TSP_AntColony.dll
